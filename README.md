@@ -4,12 +4,12 @@ Automated program to check whether a vaccination slot is available or not if it 
 
 Steps to run:
 
-Clone or download this repository
-Build the solution.
-Update pincode and telegram id
-Run the program.
-Boom, It will send you a message whenever a slot will available.
-Login to cowin.
-Book the slot.
-Get vaccination
-Save the World
+1. Clone or download this repository
+2. Build the solution.
+3. Update pincode and telegram id
+4. Run the program.
+5. Boom, It will send you a message whenever a slot will available.
+6. Login to cowin.
+7. Book the slot.
+8. Get vaccination
+9. Save the World
